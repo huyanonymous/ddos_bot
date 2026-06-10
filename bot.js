@@ -8,7 +8,7 @@ const { URL } = require('url');
 const path = require('path');
 
 // Token và Admin - ĐÃ CẬP NHẬT THEO LỆNH MÀY
-const BOT_TOKEN = '8908538640:AAHDBu7O5-zMBX5NLUqPSiRzWy9NnWsr8Ho';
+const BOT_TOKEN = '8522441680:AAHvCMW_qNyi9EeriBypAM2OFMJ_8PLN8rM';
 const ADMINS = [7959116629]; // Thêm ID admin khác nếu muốn, cách nhau bằng dấu phẩy
 
 const bot = new Telegraf(BOT_TOKEN);
